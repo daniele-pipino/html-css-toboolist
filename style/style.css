@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+/* header */
+
+.top-page{
+    height: 80px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.logo{
+    height: 70px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+.maintitle{
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px;
+    font-weight: 500;
+    font-style: bold;
+}
+
+/* main */
+
