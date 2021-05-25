@@ -83,6 +83,7 @@ margin-top: 5px;
 .list-item{
     padding-left: 30px;
     padding-top: 30px;
+    display: inline-block;
 }
 
 .entity-decoration{
@@ -90,7 +91,12 @@ margin-top: 5px;
     border-spacing: 3px;
     border-radius: 50%;
     color: green;
-    display: inline-block;
-
+}
+.righttask-button{
+    color: white;
+    margin-left: 15px;
+   padding: 10px;
+   border-radius: 15px;
+    background-color: rgb(44, 131, 202);
 }
 
