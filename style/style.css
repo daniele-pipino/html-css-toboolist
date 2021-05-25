@@ -78,12 +78,14 @@ margin-top: 5px;
 
 .list{
     list-style: none;
+    margin-bottom: 20px;
 }
 
 .list-item{
     padding-left: 30px;
-    padding-top: 30px;
+    padding-top: 10px;
     display: inline-block;
+    font-size: 20px;
 }
 
 .entity-decoration{
@@ -92,11 +94,40 @@ margin-top: 5px;
     border-radius: 50%;
     color: green;
 }
+
+.x{
+    color: red;
+    border: none;
+}
+
 .righttask-button{
     color: white;
     margin-left: 15px;
-   padding: 10px;
-   border-radius: 15px;
+   padding: 7px;
+   border-radius: 15px;    
+}
+
+.editorial{
     background-color: rgb(44, 131, 202);
+}
+
+.violetbutton{
+    background-color: blueviolet;
+}
+
+.aquabutton{
+    background-color: mediumaquamarine;
+}
+
+.orangebutton{
+    background-color: rgb(243, 117, 67);
+}
+
+.magentabutton{
+    background-color: rgba(160, 32, 160, 0.616);
+}
+
+.greenbutton{
+    background-color: olivedrab;
 }
 
